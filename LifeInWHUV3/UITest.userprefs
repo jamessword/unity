@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\MapScript.cs">
+    <Files>
+      <File FileName="Assets\scenes\LibraryScript.cs" Line="12" Column="3" />
+      <File FileName="Assets\PlayerStatus.cs" Line="19" Column="3" />
+      <File FileName="Assets\Player.cs" Line="5" Column="38" />
+      <File FileName="Assets\MainScreen.cs" Line="14" Column="2" />
+      <File FileName="Assets\MapScript.cs" Line="145" Column="13" />
+      <File FileName="Assets\EnterScript.cs" Line="19" Column="3" />
+      <File FileName="Assets\PhoneScript.cs" Line="16" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
